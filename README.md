@@ -6,3 +6,5 @@
 - 🤡 One day I've spent 6 hours to get my Hackintosh back up again. Guess what? This was typed from it.
 
 - Current ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
+
+- 🍻 I mainly use GitLab, because of my work right now, so you'll probably not see many activity here :/
