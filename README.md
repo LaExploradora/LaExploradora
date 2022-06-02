@@ -6,3 +6,4 @@
 - 🤡 One day I've spent 6 hours to get my Hackintosh back up again. Guess what? I'm using Linux now.
 
 - ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
+- ⌨️: Leopold FC750R / Cherry MX Silent Red, planning to change to Cherry MX Blacks.
