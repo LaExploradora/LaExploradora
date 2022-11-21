@@ -8,3 +8,4 @@
 
 - ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
 - ⌨️: Leopold FC750R / Cherry MX Silent Red, planning to change to Cherry MX Blacks.
+- ⌨️: Varmilo Moonlight V2 87 / Varmilo EC V2 Iris.
