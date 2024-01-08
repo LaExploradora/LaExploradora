@@ -7,5 +7,6 @@
 - 🤡 One day I've spent 6 hours to get my Hackintosh back up again. Guess what? I'm using Manjaro now.
 
 - ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
-- ⌨️: Leopold FC750R / Cherry MX Silent Red, planning to change to Cherry MX Blacks.
+- ⌨️: Leopold FC750R / Cherry MX Silent Red.
 - ⌨️: Varmilo Moonlight V2 87 / Varmilo EC V2 Iris.
+- ⌨️: NuPhy Halo65 / NuPhy Night Breeze.
