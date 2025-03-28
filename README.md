@@ -1,5 +1,5 @@
 # About me.
-- 👋 Yo, I’m @DoraDaExplora, or Mitya Nikulin.
+- 👋 Yo, I’m @LaExploradora, or Mitya Nikulin.
 - 👀 I’m interested in Web Development, Drum&Bass, and Mechanical Keyboards.
 - 🌱 I’m currently working at SuperJob as a frontend developer.
 - 🎓 Got a bachelor's degree in Information Security from the Plekhanov Russian University of Economics.
