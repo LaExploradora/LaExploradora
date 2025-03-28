@@ -11,7 +11,9 @@
 - JS/TS
 - React
 - Redux
-- SCSS, CSS-in-JS
+- Next.js
+- A bit of Svelte
+- SCSS, CSS-in-JS, TailwindCSS
 - SVG
 
 # My keyboards.
