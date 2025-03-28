@@ -4,7 +4,7 @@
 - 🌱 I’m currently working at SuperJob as a frontend developer.
 - 🎓 Got a bachelor's degree in Information Security from the Plekhanov Russian University of Economics.
 - 💞️ I’m looking to collaborate on anything that will benefit at least someone and give me some more interesting experience.
-- 📫 HMU on Telegram: @LaExplorad0ra.
+- 📫 Hit me up on Telegram: @LaExplorad0ra.
 - 🤡 One day I've spent 6 hours to get my Hackintosh back up again. Guess what? I'm using Manjaro now.
 
 # Skills.
