@@ -5,7 +5,7 @@
 - 🎓 Got a bachelor's degree in Information Security from the Plekhanov Russian University of Economics.
 - 💞️ I’m looking to collaborate on anything that will benefit at least someone and give me some more interesting experience.
 - 📫 Hit me up on Telegram: @LaExplorad0ra.
-- 🤡 One day I've spent 6 hours to get my Hackintosh back up again. Guess what? I'm using Manjaro now.
+- 🤡 I use Arch, btw. Omarchy is the GOAT.
 
 # Skills.
 - JS/TS
@@ -20,6 +20,6 @@
 - ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
 - ⌨️: Leopold FC750R / Cherry MX Silent Red.
 - ⌨️: Varmilo Moonlight V2 87 / Varmilo EC V2 Iris.
-- ⌨️: NuPhy Halo65 / NuPhy Night Breeze.
-- ⌨️: Keychron Q1 Max / Gateron Silent Red.
+- ⌨️: NuPhy Halo65 / MMD Princess V4.
+- ⌨️: Keychron Q1 Max / NuPhy Night Breeze.
 - ⌨️: Keychron Q1 / Gateron Silent Red.
