@@ -26,4 +26,4 @@
 - ⌨️: NuPhy Halo65 / MMD Princess V4.
 - ⌨️: Keychron Q1 Max / NuPhy Night Breeze.
 - ⌨️: Keychron Q1 / Gateron Silent Red.
-- ⌨️: NuPhy Halo75v2 / NyPhy Raspberry.
+- ⌨️: NuPhy Halo75v2 / NuPhy Raspberry.
