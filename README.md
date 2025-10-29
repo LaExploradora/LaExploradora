@@ -16,6 +16,9 @@
 - SCSS, CSS-in-JS, TailwindCSS
 - SVG
 
+# OSS Contributions.
+- [[@mantine/dates] Allow for custom placeholders in `<TimePicker />`](https://github.com/mantinedev/mantine/pull/8387)
+
 # My keyboards.
 - ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
 - ⌨️: Leopold FC750R / Cherry MX Silent Red.
