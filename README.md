@@ -5,7 +5,7 @@
 - 🎓 Got a bachelor's degree in Information Security from the Plekhanov Russian University of Economics.
 - 💞️ I’m looking to collaborate on anything that will benefit at least someone and give me some more interesting experience.
 - 📫 Hit me up on Telegram: @LaExplorad0ra.
-- 🤡 I use Arch, btw. ~~~Omarchy is the GOAT~~~
+- 🤡 I use Arch, btw. ~Omarchy is the GOAT~.
 
 # Skills.
 - JS/TS
