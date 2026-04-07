@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development, Drum&Bass, and Mechanical Keyboards.
 - 🌱 I’m currently working at Wildberries as a frontend developer.
 - 🎓 Got a bachelor's degree in Information Security from the Plekhanov Russian University of Economics.
-- 💞️ I’m looking to collaborating on literally anything frontend and beyond.
+- 💞️ I’m looking forward to collaborating on literally anything frontend and beyond.
 - 📫 Hit me up on Telegram: @LaExplorad0ra.
 - 🤡 I use Arch, btw. ~Omarchy is the GOAT~.
 
