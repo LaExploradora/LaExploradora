@@ -18,6 +18,7 @@
 
 # OSS Contributions.
 - [[@mantine/dates] Allow for custom placeholders in `<TimePicker />`](https://github.com/mantinedev/mantine/pull/8387)
+- [A Zed extension that allows to jump to SCSS Module class definition from TSX on Ctrl+click](https://github.com/LaExploradora/css-modules-definition-lsp)
 
 # My keyboards.
 - ⌨️: Vortex Race III RGB / Cherry MX Silent Red.
